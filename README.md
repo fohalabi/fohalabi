@@ -3,7 +3,7 @@
 - Welcome to my GitHub profile! I'm a FrontEnd Developer with a passion for creating responsive and user-centric web interfaces that brings ideas to life.
 
 # About Me
- I’m  self-taught **frontend developer** with a strong focus on creating fast, responsive and user-friendly web interfaces. I specilize in crafting clean and efficient froentend using:
+ I’m  self-taught **frontend developer** with a strong focus on creating fast, responsive and user-friendly web interfaces. I specilize in crafting clean and efficient front end using:
    - HTML, CSS and javascript for solid foundation
    - React for dynamic web interfaces
    - vite for fast and optimized development
