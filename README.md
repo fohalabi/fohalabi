@@ -28,5 +28,5 @@ Git, Github, Vs code, Figma, vite
 
 - 📧 Email : (ayomideabimbola79@gmail.com)
 - 🌐 Portfolio : ... working on it!
-- 💼 LinkedIn : (https://linkedin.com/in/fohlabi)
+- 💼 LinkedIn : (https://linkedin.com/in/fohalabi)
 - 🐦 X(formaly Twitter) : (https://twitter.com/fohlabi)
