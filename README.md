@@ -14,7 +14,7 @@ I enjoy carfting seamless user experiences, writong clean and maintainable code,
 ### 🛠️ Skills and Technologies
 - **Languages :**
 
-Html, Css, Javascript, Typescript
+Html, Css, Javascript, Typescript, Next.js, Redux
 
 - **Frameworks :**
 
