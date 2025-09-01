@@ -1,176 +1,111 @@
-# 👋 Welcome to My Digital Playground
+# Hi there 👋, I'm [ FOHLABI ]
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;TypeScript+Advocate;UI%2FUX+Craftsperson" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Crafting+clean%2C+interactive%2C+and;user-friendly+web+experiences" alt="Typing SVG" />
 </div>
 
+**Frontend Developer | Crafting clean, interactive, and user-friendly web experiences.**
+
+---
+
+## 🚀 Quick About Me
+
+- 🔭 Currently working on **E-Commerce Dashboard with React & TypeScript**
+- 🌱 Learning **Three.js and WebGL animations**
+- 💡 Interested in **Web animations, AI integrations, and UX improvements**
+- 📫 Reach me at **[your.email@example.com](mailto:your.email@example.com)** or **[Portfolio](https://yourportfolio.com)**
+
+---
+
+## 🛠️ Skills & Tools
+
+### Core Technologies
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fohalabi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/fohalabi?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
+
+### Frameworks & Libraries
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</div>
+
+### Tools & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</div>
+
+### Currently Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&opacity=0.7" alt="Three.js" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white&opacity=0.7" alt="WebGL" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&opacity=0.7" alt="GraphQL" />
 </div>
 
 ---
 
-## 🚀 About Me
+## ✨ Projects Showcase
 
-> *"Code is poetry written in logic"*
+### 🚀 **Modern E-Commerce Platform**
+*Full-stack shopping experience with seamless payment integration*
+- **[View Repo](https://github.com/yourusername/ecommerce-platform)** | **[Live Demo](https://yourproject.com)**
 
-I'm a passionate **Frontend Developer** who believes in creating digital experiences that are not just functional, but memorable. With a keen eye for detail and a love for clean, efficient code, I transform ideas into interactive realities.
+### 🎨 **Interactive Portfolio Website**
+*3D animated portfolio showcasing creative web development*
+- **[View Repo](https://github.com/yourusername/portfolio-3d)** | **[Live Demo](https://yourportfolio.com)**
 
-- 🔭 Currently working on **innovative web applications** using modern tech stacks
-- 🌱 Always learning and exploring **new frontend technologies** and **design patterns**
-- 👯 Open to collaborating on **open-source projects** and **creative web solutions**
-- 💬 Ask me about **React ecosystems**, **TypeScript best practices**, or **UI/UX optimization**
-- ⚡ Fun fact: I debug with console.log and I'm not ashamed of it! 😄
-
----
-
-## 🛠️ Tech Arsenal
-
-### Frontend Powerhouse
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,sass,vite" />
-</div>
-
-### Development Tools & More
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,webpack,nodejs,npm,yarn,vercel,netlify" />
-</div>
-
-### 💻 Technology Breakdown
-
-```typescript
-const mySkills = {
-  frontend: {
-    frameworks: ['React', 'Next.js', 'Vue.js'],
-    languages: ['TypeScript', 'JavaScript', 'HTML5', 'CSS3'],
-    styling: ['Tailwind CSS', 'Styled Components', 'SASS/SCSS', 'CSS Modules'],
-    stateManagement: ['Redux Toolkit', 'Zustand', 'Context API', 'React Query'],
-    testing: ['Jest', 'React Testing Library', 'Cypress']
-  },
-  tools: {
-    versionControl: ['Git', 'GitHub', 'GitLab'],
-    bundlers: ['Vite', 'Webpack', 'Rollup'],
-    design: ['Figma', 'Adobe XD', 'Sketch'],
-    deployment: ['Vercel', 'Netlify', 'AWS', 'Heroku']
-  },
-  currentlyLearning: ['Three.js', 'WebGL', 'Progressive Web Apps', 'Micro-frontends']
-};
-```
+### 📱 **Task Management Dashboard**
+*Collaborative productivity app with real-time updates*
+- **[View Repo](https://github.com/yourusername/task-dashboard)** | **[Live Demo](https://yourtaskapp.com)**
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=c084fc&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
-
-</div>
-
-### 🌟 Project Highlights
-
-| Project | Tech Stack | Description | Live Demo |
-|---------|------------|-------------|-----------|
-| **E-Commerce Platform** | React, TypeScript, Redux, Tailwind | Full-featured online store with payment integration | [🔗 Live](https://yourproject.com) |
-| **Task Management App** | Next.js, TypeScript, Prisma, tRPC | Collaborative project management tool | [🔗 Live](https://yourproject.com) |
-| **Portfolio Website** | React, Three.js, Framer Motion | Interactive 3D portfolio showcase | [🔗 Live](https://yourportfolio.com) |
-
----
-
-## 🎯 What I Bring to the Table
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 Frontend Excellence
-- **Pixel-perfect** UI implementations
-- **Responsive** design across all devices
-- **Performance optimization** and best practices
-- **Accessibility** compliance (WCAG)
-- **Modern animations** and micro-interactions
-
-</td>
-<td width="50%">
-
-### ⚡ Technical Expertise
-- **Component-driven** development
-- **Type-safe** applications with TypeScript
-- **State management** optimization
-- **Testing** strategies and TDD
-- **CI/CD** pipeline setup
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 30 mins  ████████████▓░░░░░░░░   65.20%
-JavaScript   4 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░   17.80%
-CSS          2 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░   11.50%
-HTML         1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░    5.50%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🌐 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayomideabimbola79@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+**Always open to collaboration and new opportunities 🚀**
 
 </div>
 
 ---
 
-## 💭 Philosophy
-
-```javascript
-const myApproach = {
-  code: "Clean, readable, and maintainable",
-  design: "User-centered with attention to detail",
-  learning: "Continuous and curiosity-driven",
-  collaboration: "Open communication and shared growth",
-  problems: "Every bug is a puzzle waiting to be solved"
-};
-
-console.log("Let's build something amazing together! 🚀");
-```
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
-</div>
-
-<div align="center">
-  <sub>💡 <strong>Open to opportunities and collaborations</strong></sub>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"/>
+  <br/>
+  <sub>Made with ❤️ in Lagos, Nigeria</sub>
 </div>
