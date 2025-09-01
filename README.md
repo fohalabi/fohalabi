@@ -13,7 +13,7 @@
 - 🔭 Currently working on **E-Commerce Dashboard with React & TypeScript**
 - 🌱 Learning **Three.js and WebGL animations**
 - 💡 Interested in **Web animations, AI integrations, and UX improvements**
-- 📫 Reach me at **[your.email@example.com](mailto:your.email@example.com)** or **[Portfolio](https://yourportfolio.com)**
+- 📫 Reach me at **[ayomideabimbola79@gmail.com](ayomideabimbola@gmail.com)**
 
 ---
 
