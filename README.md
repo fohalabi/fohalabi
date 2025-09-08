@@ -56,7 +56,7 @@
 
 ### 🚀 **Ai code snippet manager**
 *Full-stack app that helps developers to store, organize, and retrieve snippets with natural language search and AI-assisted recommendations.*
-- **[View Repo]([https://github.com/fohalabi/AI-code-snippet-manager])** | **[Live Demo]((https://ai-code-snippet-manager.vercel.app/))**
+- **[View Repo](https://github.com/fohalabi/AI-code-snippet-manager)** | **[Live Demo](https://ai-code-snippet-manager.vercel.app/)**
 
 ### 🎨 **Interactive Portfolio Website**
 *3D animated portfolio showcasing creative web development*
