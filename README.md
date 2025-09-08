@@ -10,7 +10,7 @@
 
 ## 🚀 Quick About Me
 
-- 🔭 Currently working on **E-Commerce Dashboard with React & TypeScript**
+- 🔭 Currently working on **runmypitch and Trakit with Typescipt and Next.js**
 - 🌱 Learning **Three.js and WebGL animations**
 - 💡 Interested in **Web animations, AI integrations, and UX improvements**
 - 📫 Reach me at **[ayomideabimbola79@gmail.com](ayomideabimbola@gmail.com)**
@@ -54,9 +54,9 @@
 
 ## ✨ Projects Showcase
 
-### 🚀 **Modern E-Commerce Platform**
-*Full-stack shopping experience with seamless payment integration*
-- **[View Repo](https://github.com/yourusername/ecommerce-platform)** | **[Live Demo](https://yourproject.com)**
+### 🚀 **Ai code snippet manager**
+*Full-stack app that helps developers to store, organize, and retrieve snippets with natural language search and AI-assisted recommendations.*
+- **[View Repo]([https://github.com/fohalabi/AI-code-snippet-manager])** | **[Live Demo]((https://ai-code-snippet-manager.vercel.app/))**
 
 ### 🎨 **Interactive Portfolio Website**
 *3D animated portfolio showcasing creative web development*
