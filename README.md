@@ -70,7 +70,9 @@
 
 ## 📊 GitHub Stats & Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fohalabi&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fohalabi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 ## 🤝 Let's Connect
 
