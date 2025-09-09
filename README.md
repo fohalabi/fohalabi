@@ -82,5 +82,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayomideabimbola@gmail.com)
 
 **Always open to collaboration and new opportunities 🚀**
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"/>
 </div>
