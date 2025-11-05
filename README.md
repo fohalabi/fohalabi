@@ -1,7 +1,7 @@
 # Hi there, I'm FOHLABI
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Frontend+Software+Engineer;Crafting+clean%2C+interactive%2C+and;user-friendly+web+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Crafting+clean%2C+interactive%2C+and;user-friendly+web+experiences" alt="Typing SVG" />
 </div>
 
 **Frontend Developer | Crafting clean, interactive, and user-friendly web experiences.**
