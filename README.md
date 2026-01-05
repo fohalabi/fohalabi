@@ -10,7 +10,7 @@
 
 ## 🚀 Quick About Me
 
--  Currently working on **runmypitch and Trakit with Typescipt and Next.js**
+-  Currently building somethinng **cool with Typescipt and Next.js**
 -  Learning **Three.js and WebGL animations**
 -  Interested in **Web animations, AI integrations and Devops**
 -  Reach me at **[ayomideabimbola79@gmail.com](ayomideabimbola@gmail.com)**
