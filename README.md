@@ -10,10 +10,8 @@
 
 Full-stack developer evolving from frontend and backend web development into **Python engineering and fintech**. I build clean, production-grade applications — from interactive UIs to data-driven APIs and containerized deployments.
 
-- 🔭 Currently building **[MarketLens](https://github.com/fohlabi/market-lens)** — a real-time market data analyzer in Python
+- 🔭 Currently building **PAYFLOW**
 - 🌱 Expanding into **Python, DevOps, Docker, and financial data engineering**
-- ⚡ Previously focused on **TypeScript, Next.js, and web animations**
-- 📫 Reach me at **ayomideabimbola79@gmail.com**
 
 ---
 
