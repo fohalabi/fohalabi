@@ -53,24 +53,6 @@ Full-stack developer evolving from frontend and backend web development into **P
 
 ---
 
-## 🚀 Featured Project
-
-### 📈 [MarketLens](https://github.com/fohalabi/market-lens) — Real-time Market Intelligence
-
-> Real-time market data analysis across Stocks, Crypto, Forex, and Commodities
-
-- ⚡ **FastAPI** REST API with WebSocket price streaming
-- 📊 Technical analysis engine — RSI, MACD, Bollinger Bands, VWAP, ATR
-- 🗄️ **PostgreSQL + Redis** containerized with Docker
-- 💼 Portfolio tracker with live P&L and allocation charts
-- 🔔 Price alerts with auto-checking scheduler
-- 🐳 **Docker Compose** for local dev, deployed to **Railway** with **GitHub Actions CI/CD**
-- 📖 Auto-generated Swagger API docs
-
-**Live:** [marketlens-production-c6fd.up.railway.app](https://marketlens-production-c6fd.up.railway.app)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
