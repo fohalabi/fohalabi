@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-Full-stack developer evolving from frontend and backend web development into **Python engineering and fintech**. I build clean, production-grade applications — from interactive UIs to data-driven APIs and containerized deployments.
+Full-stack developer evolving into **fintech**. I build clean, production-grade applications — from interactive UIs to data-driven APIs and containerized deployments.
 
 - 🔭 Currently building **PAYFLOW**
 - 🌱 Expanding into **Python, DevOps, Docker, and financial data engineering**
@@ -56,13 +56,13 @@ Full-stack developer evolving from frontend and backend web development into **P
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fohlabi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fohlabi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fohlabi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fohlabi&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
 
 ---
 
 <div align="center">
-  <i>Open to fintech, full-stack, and Python engineering opportunities.</i>
+  <i>Open to backend, full-stack, and fintech opportunities.</i>
 </div>
