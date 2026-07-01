@@ -39,8 +39,8 @@ I build clean, production-grade applications — from interactive UIs to data-dr
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fohlabi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fohlabi&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fohalabi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fohalabi&layout=compact&theme=dark&hide_border=true" height="150" />
 </div>
 
 <br>
