@@ -4,7 +4,7 @@
 
 **Full-Stack Developer | Building real-time financial tools**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2DD4BF&center=true&vCenter=true&width=440&lines=Building+PAYFLOW+%F0%9F%92%B8;TypeScript+%7C+Python+%7C+Docker;Real-time+market+intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2DD4BF&center=true&vCenter=true&width=440&lines=TypeScript+%7C+Python+%7C+Docker;Real-time+market+intelligence" alt="Typing SVG" />
 
 </div>
 
