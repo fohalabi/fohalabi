@@ -12,7 +12,7 @@
 
 I build clean, production-grade applications — from interactive UIs to data-driven APIs and containerized deployments.
 
-- 🔭 Currently building **PAYFLOW**
+- 🔭 Building **WHEREMYMONEY**
 - 🌱 Deepening my skills in **Python, DevOps, and financial data engineering**
 - 💬 Open to **backend, full-stack & fintech** opportunities
 
