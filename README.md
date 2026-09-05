@@ -10,7 +10,7 @@
 
 <br>
 
-I build clean, production-grade applications — from interactive UIs to data-driven APIs and containerized deployments.
+I build clean, production-grade applications from interactive UIs to data-driven APIs & backend logic and containerized deployments.
 
 - 🔭 Building **Moneo**
 - 🌱 Deepening my skills in **Python, DevOps, and financial data engineering**
