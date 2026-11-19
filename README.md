@@ -36,15 +36,6 @@ I build clean, production-grade applications from interactive UIs to data-driven
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fohalabi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fohalabi&layout=compact&theme=dark&hide_border=true" height="150" />
-</div>
-
-<br>
-
 <div align="center">
   <sub>Building things that solve real problems, one commit at a time.</sub>
 </div>
